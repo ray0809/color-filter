@@ -26,7 +26,16 @@ Downloading from：[rgb2hex](https://www.rgbtohex.net/)
 an rgb must be belong to an dominant colors（Manual selection）
 
 
-calculate distance of two rgb：[CIEDE2000](https://github.com/sumtype/CIEDE2000)
+calculate distance of two rgbs：[CIEDE2000](https://github.com/sumtype/CIEDE2000)
+
+## dominant color extractor
+```
+pip install colorthief
+```
+reference：[issues#1](https://github.com/fengsp/color-thief-py/issues/1)
+
+this .py file has been upload together, you can replace it as you like
+
 
 
 
