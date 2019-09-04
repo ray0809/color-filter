@@ -46,5 +46,5 @@ this .py file has been upload together, you can replace it as you like
 | purple | 0.01027 |
 | blue | 0.02269 |
 
-![img1](./imgs/1.png)
+![img1](../imgs/1.png)
 
